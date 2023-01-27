@@ -8,9 +8,9 @@ namespace surva\allsigns\util;
 
 class AllSignsGeneral
 {
-    public const SIGN_IDENTIFIER = "§eAll§5Signs§r";
+    public const SIGN_IDENTIFIER = "§l§fTAP§aME§r";
 
-    public const ID_SEPARATOR = "#";
+    public const ID_SEPARATOR = " #";
 
     public const INTERACT_MODE = 5;
 
